@@ -1,1 +1,2 @@
-Name: Szymon Pierścińśki
+Name:{Szymon Pierścińśki}
+University: PJATK
